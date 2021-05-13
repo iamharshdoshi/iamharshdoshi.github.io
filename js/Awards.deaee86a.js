@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Awards"],{"6cae":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("p",[e._v("Awards")])])}],c={name:"awards"},s=c,u=t("2877"),i=Object(u["a"])(s,a,r,!1,null,"c9362bf8",null);n["default"]=i.exports}}]);
+//# sourceMappingURL=Awards.deaee86a.js.map
