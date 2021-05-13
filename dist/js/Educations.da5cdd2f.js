@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Educations"],{b4b1:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("p",[e._v("Educations")])])}],s={name:"educations"},u=s,i=t("2877"),r=Object(i["a"])(u,c,a,!1,null,"4898228e",null);n["default"]=r.exports}}]);
-//# sourceMappingURL=Educations.da5cdd2f.js.map

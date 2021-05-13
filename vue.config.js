@@ -6,5 +6,6 @@ module.exports = {
       localeDir: '@/locales',
       enableInSFC: true
     }
-  }
+  },
+  outputDir: 'build'
 }
